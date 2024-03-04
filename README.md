@@ -1,0 +1,2 @@
+# Efficientzero_with_dnnperf
+用Dnnperf的方法预测Effcicientzero训练时runtime
